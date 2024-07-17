@@ -1,0 +1,9 @@
+Description of Table 
+
+Student Table :
+
+create table Student(rollno number(3),name varchar2(25),city VARCHAR2(25),total number(3));
+
+UserRegistration :
+
+create table UserRegistration(username varchar2(20),email varchar2(50),password varchar2(20),phoneno number(10));
